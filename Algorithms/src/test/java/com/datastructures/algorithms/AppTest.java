@@ -1,4 +1,4 @@
-package com.datastructures.Algorithms;
+package com.datastructures.algorithms;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -31,8 +31,5 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
-    {
-        assertTrue( true );
-    }
+   
 }
